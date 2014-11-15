@@ -1,0 +1,74 @@
+
+
+    1  sudo apt-get install ubuntu-desktop
+    2  sudo apt-get install xrdp
+    3  start x
+    4  sudo apt-get install ubuntu-desktop
+    5  startx
+    6  sudo passwd root
+    7  sudo usermod -G admin santhosh
+    8  sudo apt-get install ubuntu-desktop
+    9  start
+   10  startx
+   11  sudo apt-get install build-essential
+   12  sudo apt-get install xserver-xorg
+   13  startx
+   14  sudo apt-get install build-essential 
+   15  startx
+   16  sudo apt-get update
+   17  sudo apt-get install ubuntu-desktop
+   18  sudo apt-get install xrdp
+   19  startx
+   20  gnome system monitor
+   21  gnome-system-monitor
+
+   
+   22  python
+   23  python --version
+   24  python
+   25  sudo apt-get install sublime-text
+   26  sublm
+   27  subl
+   28  cd
+   29  ls -l
+   30  sublime
+   31  cd Sublime\ Text\ 2/
+   32  ls -l
+   33  sublime-text
+   34  cd
+   35  pwd
+   36  sudo add-apt-repository ppa:webupd8team/sublime-text-2
+   37  sudo apt-get install sublime-text
+   38  subl
+   39  sublime-text
+   40  sudo apt-get update
+   41  sudo apt-get install sublime-text
+   42  subl
+   43  pwd
+   44  ls -lt
+   45  apt-get install git
+   46  sudo apt-get install git
+   47  git
+   48  git config --global Santhosh
+   49  git config --global santhosh.mathew
+   50  git config --global sVm@uw.edu
+   51  git config --global user.name santhosh
+   52  git config --global user.email sVm@uw.edu
+   53  git init
+   54  pwd
+   55  ls git
+   56  ls .git
+   57  rm -rf .git
+   58  ls
+   59  mkdir gue_workshop
+   60  ls 
+   61  cd gue_workshop
+   62  ls
+   63  ls -l
+   64  touch unix_notes.txt
+   65  ls -l
+   66  git init
+   67  git status
+   68  pwd
+   69  git status
+   70  history >>unix_notes.txt
